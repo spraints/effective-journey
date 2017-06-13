@@ -1,3 +1,3 @@
 # effective-journey
 
-:boom:
+:tada:
